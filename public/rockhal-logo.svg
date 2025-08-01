@@ -1,0 +1,7 @@
+<svg width="400" height="100" viewBox="0 0 400 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0h400v100H0z" fill="none"/>
+  <path d="M0 20h150v60H0z" fill="#FFF5E0"/>
+  <path d="M60 20a30 30 0 1 1 0 60 30 30 0 0 1 0-60z" fill="#FF4500"/>
+  <path d="M150 20h250v60H150z" fill="#FFF5E0"/>
+  <text x="200" y="80" fill="#FF4500" font-family="Arial" font-size="24" font-weight="bold">WHERE MUSIC MATTERS</text>
+</svg>
