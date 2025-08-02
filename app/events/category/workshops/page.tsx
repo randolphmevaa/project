@@ -10,7 +10,7 @@ const workshops = [
     title: "Music Production Masterclass",
     instructor: "David Chen",
     description: "Learn the fundamentals of music production, from recording to mixing and mastering.",
-    date: "2025-05-15",
+    date: "2026-05-15",
     time: "14:00 - 18:00",
     duration: "4 hours",
     capacity: "20 participants",
@@ -23,7 +23,7 @@ const workshops = [
     title: "Vocal Performance Workshop",
     instructor: "Sarah Johnson",
     description: "Improve your vocal technique, stage presence, and performance confidence.",
-    date: "2025-05-22",
+    date: "2026-05-22",
     time: "10:00 - 13:00",
     duration: "3 hours",
     capacity: "15 participants",
@@ -36,7 +36,7 @@ const workshops = [
     title: "DJ & Electronic Music Workshop",
     instructor: "Max Richter",
     description: "Get hands-on experience with DJ equipment and learn mixing techniques.",
-    date: "2025-06-05",
+    date: "2026-06-05",
     time: "15:00 - 19:00",
     duration: "4 hours",
     capacity: "12 participants",
@@ -78,7 +78,7 @@ export default function WorkshopsPage() {
         <div className="flex flex-wrap gap-4 mb-6">
           <div className="flex items-center gap-2">
             <Calendar className="h-5 w-5" />
-            <span>July 7-11, 2025</span>
+            <span>July 7-11, 2026</span>
           </div>
           <div className="flex items-center gap-2">
             <Clock className="h-5 w-5" />
