@@ -1,4 +1,5 @@
 export interface Event {
+  artist: any;
   id: string;
   title: string;
   description?: string;

@@ -60,12 +60,12 @@ const slides = [
   },
   {
     id: 5,
-    image: "https://www.abcdrduson.com/wp-content/uploads/2023/07/5323397-1.jpg",
+    image: "https://apps.ticketmatic.com/obj/filestore/prod/10491/events/11420/image.67bef0e0b2a19.960.jpg",
     badge: "JUST ANNOUNCED",
-    title: "NINHO",
-    subtitle: "JEFE WORLD TOUR",
-    date: "FRI 19 JUL 2025",
-    time: "20:00",
+    title: "SDM",
+    subtitle: "HIP HOP SNACKS",
+    date: "SAT 01 NOV 2025",
+    time: "19:00",
     venue: "Main Hall",
     genre: "French Rap"
   }

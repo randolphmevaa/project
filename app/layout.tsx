@@ -15,7 +15,7 @@ const ppfFormula = localFont({
       style: 'normal',
     },
     {
-      path: './fonts/PPFormulaCondensed-Bold.woff2',
+      path: './fonts/PPFormulaCondensed-Black.woff2',
       weight: '700',
       style: 'normal',
     },
