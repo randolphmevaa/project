@@ -10,7 +10,7 @@ export const featuredEvents: Event[] = [
     time: "19:00",
     venue: "Main Hall",
     category: "French Pop",
-    price: "€45 - €75",
+    price: "€80",
   },
   {
     id: "2",
@@ -21,7 +21,7 @@ export const featuredEvents: Event[] = [
     time: "20:00",
     venue: "Floor",
     category: "French Pop",
-    price: "€35",
+    price: "€80",
   },
   {
     id: "3",
@@ -32,7 +32,7 @@ export const featuredEvents: Event[] = [
     time: "19:00",
     venue: "Club",
     category: "Metal",
-    price: "€30",
+    price: "€80",
   },
   {
     id: "4",
@@ -43,7 +43,7 @@ export const featuredEvents: Event[] = [
     time: "19:00",
     venue: "Main Hall",
     category: "Blues/Jazz",
-    price: "€55 - €85",
+    price: "€80",
   },
   {
     id: "5",
@@ -54,7 +54,7 @@ export const featuredEvents: Event[] = [
     time: "14:30",
     venue: "Main Hall",
     category: "Entertainment",
-    price: "€40 - €70",
+    price: "€80",
   },
   {
     id: "6",
@@ -65,7 +65,7 @@ export const featuredEvents: Event[] = [
     time: "20:00",
     venue: "Club",
     category: "Metal",
-    price: "€25",
+    price: "€80",
   },
   {
     id: "7",
@@ -76,7 +76,7 @@ export const featuredEvents: Event[] = [
     time: "21:00",
     venue: "Club",
     category: "Electro/Clubbing",
-    price: "€30",
+    price: "€80",
     soldOut: true,
   },
   {
@@ -88,7 +88,7 @@ export const featuredEvents: Event[] = [
     time: "16:00",
     venue: "Club",
     category: "Classical",
-    price: "€35",
+    price: "€80",
   },
   {
     id: "9",
@@ -99,7 +99,7 @@ export const featuredEvents: Event[] = [
     time: "17:30",
     venue: "Main Hall",
     category: "Entertainment",
-    price: "€35",
+    price: "€80",
     soldOut: true,
   },
   {
@@ -111,7 +111,7 @@ export const featuredEvents: Event[] = [
     time: "19:00",
     venue: "Box",
     category: "Pop",
-    price: "€45",
+    price: "€80",
   },
   {
     id: "40",
@@ -122,7 +122,7 @@ export const featuredEvents: Event[] = [
     time: "19:00",
     venue: "Main Hall",
     category: "Rock",
-    price: "€55 - €85",
+    price: "€80",
   },
 ];
 

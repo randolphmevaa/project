@@ -57,7 +57,7 @@ export default function Footer() {
               <Link href="/events" className="block hover:text-foreground transition-colors">
                 Events Calendar
               </Link>
-              <Link href="/tickets" className="block hover:text-foreground transition-colors">
+              <Link href="/" className="block hover:text-foreground transition-colors">
                 Buy Tickets
               </Link>
               <Link href="/venue" className="block hover:text-foreground transition-colors">
