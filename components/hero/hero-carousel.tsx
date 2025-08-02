@@ -20,7 +20,7 @@ const slides = [
     badge: "COMING SOON",
     title: "JORJA SMITH",
     subtitle: "FALLING OR FLYING TOUR",
-    date: "THU 10 JUL 2025",
+    date: "FRI 13 FEB 2026",
     time: "19:00",
     venue: "Main Hall",
     genre: "Pop, R&B/Soul"
@@ -31,7 +31,7 @@ const slides = [
     badge: "NEXT EVENT",
     title: "THE ROSE",
     subtitle: "ONCE UPON A WRLD",
-    date: "FRI 27 JUN 2025",
+    date: "FRI 27 JUN 2026",
     time: "19:00",
     venue: "Main Hall",
     genre: "Pop"
@@ -42,7 +42,7 @@ const slides = [
     badge: "JUST ANNOUNCED",
     title: "BURNA BOY",
     subtitle: "WORLD TOUR 2026",
-    date: "FRI 07 FEB 2026",
+    date: "THU 07 FEB 2026",
     time: "20:00",
     venue: "Main Hall",
     genre: "Afrobeats, R&B"
