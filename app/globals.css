@@ -2,22 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-  font-family: 'PPF Formula';
-  src: url('/fonts/PPFormulaCondensed-Bold.woff2') format('woff2');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'PPF Formula';
-  src: url('/fonts/PPFormulaCondensed-Regular.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -55,7 +39,7 @@
     --ring: 16 100% 50%;
     --radius: 1.5rem;
   }
-
+  
   .dark {
     --background: 224 71% 4%;
     --foreground: 0 0% 98%;
@@ -77,16 +61,20 @@
     --input: 240 3.7% 15.9%;
     --ring: 16 100% 50%;
   }
-
+  
   * {
     @apply border-border;
   }
   body {
-    @apply bg-background text-foreground font-ppf;
+    @apply bg-background text-foreground;
   }
 }
 
 @layer utilities {
+  .font-ppf {
+    font-family: var(--font-ppf), system-ui, sans-serif;
+  }
+  
   .animation-delay-150 {
     animation-delay: 150ms;
   }

@@ -42,7 +42,7 @@ export default function TicketPage({ params }: TicketPageProps) {
   };
 
   return (
-    <div className="min-h-screen bg-[#FAF6EB] pt-24 pb-16">
+    <div className="min-h-screen bg-[#FAF6EB] pt-24 pb-16 text-gray-900">
       <div className="container mx-auto px-4 max-w-3xl">
         {/* Header */}
         <div className="mb-8">
