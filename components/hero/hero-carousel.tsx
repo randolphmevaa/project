@@ -185,7 +185,7 @@ export default function HeroCarousel() {
                         className="text-lg px-8 hover:scale-105 transition-transform"
                         asChild
                       >
-                        <Link href="https://buy.stripe.com/aEUeVP04SgJE8Qo001">
+                        <Link href="https://buy.stripe.com/aFaeVd6zwaoCfnP6Ia5ZC02">
                           BUY TICKETS
                         </Link>
                       </Button>

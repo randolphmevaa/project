@@ -124,7 +124,7 @@ export default function EventDetail({ event }: EventDetailProps) {
               disabled={soldOut}
               asChild
             >
-              <Link href={soldOut ? "#" : "https://buy.stripe.com/aEUeVP04SgJE8Qo001"}>
+              <Link href={soldOut ? "#" : "https://buy.stripe.com/aFaeVd6zwaoCfnP6Ia5ZC02"}>
                 {soldOut ? "Sold Out" : "Buy Tickets"}
               </Link>
             </Button>

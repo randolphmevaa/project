@@ -133,7 +133,7 @@ export default function TicketCarousel({ events }: TicketCarouselProps) {
                       disabled={event.soldOut}
                       asChild
                     >
-                      <Link href={event.soldOut ? "#" : "https://buy.stripe.com/aEUeVP04SgJE8Qo001"}>
+                      <Link href={event.soldOut ? "#" : "https://buy.stripe.com/aFaeVd6zwaoCfnP6Ia5ZC02"}>
                         {event.soldOut ? "Sold Out" : "Buy Tickets"}
                       </Link>
                     </Button>
